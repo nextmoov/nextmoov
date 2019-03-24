@@ -1,6 +1,5 @@
 
-# We are nextmoov\
-_and this is how we work_
+# We are nextmoov, and this is how we work
 
 # What's this?
 
