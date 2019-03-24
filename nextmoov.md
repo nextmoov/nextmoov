@@ -243,10 +243,6 @@ Other design tools such as Framer X are still being considered but haven't been 
 
 It seems logical, but we remind you that as a freelance designer, you should own your own legal copies of the softwares you use.
 
-
-# 
-
-
 # Teammate onboarding.
 
 The nextmoov family is proud to announce the birth of their ~~child~~ teammate. Congrats and welcome you (again)! 🎉
@@ -282,7 +278,9 @@ But before you do so, we have a few last administrative burden to go through, na
 *   Posting your lovely face on our Social Media accounts : (Twitter, Facebook, and Linkedin. Not TikTok, yet).
 *   Configuring your e-mail signature using the following template:
 
-    ```
+  
+    
+```
 <style>.lh14 {line-height: 1.4;}</style><div style="font-family: -apple-system, system-ui, BlinkMacSystemFont, Helvetica, Arial, sans-serif; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: white; font-weight: 400; -webkit-text-size-adjust: none;"><br><br><br><div style="margin-left: 1px; margin-bottom: 12px;"><img src="https://prismic-io.s3.amazonaws.com/nextmoov-website%2Fd816959a-2be3-45ab-b77a-11ff0f5c52d8_logo.png" alt="nextmoov" height="16px"></div><div style="color: #000000; font-size: 16px; font-weight: 700; margin-bottom: 2px;">Name Surname</div><div style="color: #FF3F6F; font-size: 12px; font-weight: 600;">Function </div><div class="lh14" style="margin-top: 10px; font-size: 10px; font-weight: 500; line-height: 1.4;"><a href="tel:+32479742328" value="+32479742328" target="_blank" style="color: #000000; text-decoration: none;">Phone Number</a><br><a href="tel:+3225880306" value="+3225880306" target="_blank" style="color: #000000; text-decoration: none;">+32 2 588 03 06</a><br><a href="https://nextmoov.be" target="_blank" style="color: #FF3F6F; text-decoration: none;">nextmoov.be</a></div><div style="color: #FF3F6F; font-size: 10px; margin-top: 18px;"><span style="font-weight: 700; text-transform: uppercase;">Smart Digital Studio</span></div></div>
 ```
 
