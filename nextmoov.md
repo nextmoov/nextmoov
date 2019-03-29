@@ -77,7 +77,7 @@ Keeping everything nice and tidy — automagically!
 
 ### Simplicity
 
-Yet another rule we stole from our developers: Keep It Simple, Stupid (KISS). \
+Yet another rule we stole from our developers: Keep It Stupid Simple (KISS). \
 We always aim to simplify things. But hey, take note of that one: quite often, the simplest solution is far from the easiest. The simplest solution might be to stop working with a client we don't have a match with, refuses complicated but well paying project, stop working with a team member who don't fit in.  \
 Hard decisions, but simple one: they allow us to stay who we are.
 
