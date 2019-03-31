@@ -317,6 +317,3 @@ Meeting rooms can also be [booked](https://becentral.yarooms.com/) (Credentials 
 ### Professional expenses
 
 All professional expenses are reimbursed upon completion of the following [template](https://drive.google.com/open?id=1-qUpyK7fsPh7t9UOrAo9WcPFKUxSjE_6) and providing the original invoices are attached to it.
-
-
-# Client onboarding.
