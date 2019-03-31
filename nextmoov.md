@@ -314,7 +314,7 @@ Your @nextmoov.be address grants you access to a personal agenda AND a team agen
 
 There is a printer available in BeCentral but you'll need to set it up first. Good luck with that 😂([MAC](https://drive.google.com/open?id=1Kg5jTT-Pz5srbGPgeAPQFDal2I9JnuqX) or [PC](https://drive.google.com/open?id=1pNxbQR1qy0eCY1qZZjbpXPFXjc-Z0zIu)).
 
-Meeting rooms can also be [booked](https://becentral.yarooms.com/) (thomas@nextmoov.be — HWy-qAx-NDK-b3A).
+Meeting rooms can also be [booked](https://becentral.yarooms.com/) (Credentials in 1Password).
 
 
 ### Professional expenses
