@@ -94,7 +94,7 @@ Freelancers have access to core data about the company. The only reason not to d
 
 ### Paperless
 
-We are a digital agency. Like… digital. We print almost nothing and keep everything in the cloud.
+We are a digital studio. Like… digital. We print almost nothing and keep everything in the cloud.
 
 Let's build a better future. GO TREES! 🌳
 
@@ -209,7 +209,7 @@ Slack is our all-in-one internal communication tool. This is the place where the
 
 Next comes Google Drive, our... well you know Drive right?
 
-Lastly, for the accounts we share among the agency, we use 1Password, our cloudy safe. 
+Lastly, for the accounts we share among the studio, we use 1Password, our cloudy safe. 
 
 And that's it.
 
