@@ -30,7 +30,7 @@ Not so much because we are so popular we can afford to be so. But rather because
 ### Efficiency at the heart of our work
 
 A lot of people judge their work by the quantity instead of the quality. We don't. We aim to work as smart as possible and be as efficient as possible. We hate losing time, in commute, in useless meetings, in endless boring 9-to-5 weekdays. \
-Our goal: creating the most efficient team in the world.
+Our goal: creating the most efficient teams in the world.
 
 
 ### Rigorous methodology
