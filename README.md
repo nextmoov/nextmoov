@@ -1,12 +1,10 @@
-
-# We are nextmoov and this is how we work.
+<img width="1440" alt="Screenshot 2019-04-16 at 13 35 20" src="https://user-images.githubusercontent.com/4315469/56206516-dfcc4d00-604c-11e9-855e-b8bb903341bb.png">
 
 # What's this?
 
 We're handing you this guide so you can familiarize yourself with the nextmoov mindset, our organization and all the little details that make us the best team ever. Before diving into practical information, let's go through what makes nextmoov awesome 💪🏼	
 
 # Our DNA.
-
 
 ### We are in a quest to redefine work
 
