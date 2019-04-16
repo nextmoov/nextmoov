@@ -110,13 +110,37 @@ We build our products in an agile way, meaning we deliver regularly so as to ens
 
 # Collaborating.
 
+### Non Remote Fridays & Workshop
 
-### WeeklyBrief
+We really wanted to have Casual Fridays, but then we realized we are not wearing a suit any day of the week...
+That's why we created the.... (drum roll)... **Non Remote Fridays**.
 
-Every Friday at 14.00, we meet all together and have a debriefing of the past Sprint. You will be reviewing your assigned Stories with your Project Manager, and according to the project progress, you will be briefed for the upcoming week.
+It's the day of the week to gather round @ Brussels HQ for anyone willing to.
+We run the Sprint Debrief, a quickly WeeklyBrief, share a lunch and then discover a new exciting tech during the workshop.
+
+#### Sprint Debrief — Every Friday, 10:00
+
+During the weekly (half—)Sprint Debrief, you will be reviewing your assigned Stories with your Project Manager, and according to the project progress, you will be briefed for the upcoming week. 
+
+10:00, remember that time : every stories of yours needs to be completed by that time.
+Cause, you know : deadline are one of the rare thing we don't laugh about. 🤷🏽‍♀️
 
 
-### Constant reporting
+#### WeeklyBrief — Every Friday, 11:30
+
+Every Friday, the Core Team meet and do a quick checkup of every project being actively developed, as well as update the main milestones for the Company. Everyone is welcomed to attend! 
+
+#### Workshop — Every Friday, 14:00
+
+Kubernetes, FramerX, 3D Printing, React Native : We play with a lot of tech.\
+Want to discover a new one? We all do! 
+
+Everyone can attend : (former) team members, (former) interns, friends, friends of friends, and, of course, your mom.
+**The agenda is publicly available:**
+- [iCal](https://calendar.google.com/calendar/ical/nextmoov.be_ajkj8t9pv1gbiov7r4n4mfq52s%40group.calendar.google.com/public/basic.ics)
+- [Online View](https://calendar.google.com/calendar/embed?src=nextmoov.be_ajkj8t9pv1gbiov7r4n4mfq52s%40group.calendar.google.com&ctz=Europe%2FBrussels)
+
+### Constant reporting — 24/7
 
 Everyone should constantly report progress on the appropriate Airtable project base and push their code on Bitbucket. And the automatic integration to Slack will do the trick.
 
