@@ -3,7 +3,20 @@
 
 # What's this?
 
-We're handing you this guide so you can familiarize yourself with the nextmoov mindset, our organization and all the little details that make us the best team ever. Before diving into practical information, let's go through what makes nextmoov awesome 💪🏼	
+This is our DNA. This is who we are.\
+But, wait, who are we, actually?
+
+**[nextmoov](https://nextmoov.be) is a Belgian Digital Agency. 🇧🇪**\
+We re-invent the way we work, as true digital nomads, while producing some nice apps, website and chatbots.\
+
+On April 16th 2019, we decided to go one step further with our open-minded DNA : go fully open source with it.
+
+In this repository, you can:
+
+- DNA (this document) : Discover our DNA and suggest any edit to it
+- [Docs/Developers](./developers) : Read some of our internal training documents & conventions for Developers
+- [Issues](https://github.com/nextmoov/nextmoov/issues) : See all the next big steps for us as a company (and the debates around it), from picking a 3D printer to revolutionize our DX.
+
 
 # Our DNA.
 
