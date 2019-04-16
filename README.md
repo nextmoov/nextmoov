@@ -5,6 +5,16 @@
 
 We're handing you this guide so you can familiarize yourself with the nextmoov mindset, our organization and all the little details that make us the best team ever. Before diving into practical information, let's go through what makes nextmoov awesome 💪🏼	
 
+
+> ### Edits are strongly encouraged
+> Do wish to make any update to this document? \
+> Go ahead! Just make your edit and open a pull request! \
+> And yes, even from you, that guy we never met, living on the other face of the globe!
+>
+> Not comfortable with PR & Git? Just reach to any member of the Core Team on Slack! \
+> [Edit this document →](https://github.com/nextmoov/nextmoov/edit/master/README.md)
+
+
 # Our DNA.
 
 
