@@ -7,7 +7,7 @@ This is our DNA. This is who we are.\
 But, wait, who are we, actually?
 
 **[nextmoov](https://nextmoov.be) is a Belgian Digital Agency. 🇧🇪**\
-We re-invent the way we work, as true digital nomads, while producing some nice apps, website and chatbots.\
+We are in a quest to re-invent the way we work, as true digital nomads, while producing some nice apps, website and chatbots.\
 
 On April 16th 2019, we decided to go one step further with our open-minded DNA : go fully open source with it.
 
