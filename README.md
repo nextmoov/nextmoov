@@ -6,11 +6,11 @@ This is our DNA. This is who we are.\
 But, wait, who are we, actually?
 
 **[nextmoov](https://nextmoov.be) is a Belgian Digital Agency. 🇧🇪**\
-We are in a quest to re-invent the way we work, as true digital nomads, while producing some nice apps, website and chatbots.\
+We are in a quest to re-invent the way we work, as true digital nomads, while producing some nice apps, website and chatbots.
 
 On April 16th 2019, we decided to go one step further with our open-minded DNA : go fully open source with it.
 
-In this repository, you can:
+In this repository, you can: 
 
 - DNA (this document) : Discover our DNA and suggest any edit to it
 - [Docs/Developers](./developers) : Read some of our internal training documents & conventions for Developers
@@ -47,7 +47,7 @@ Not so much because we are so popular we can afford to be so. But rather because
 # Our principles.
 
 
-### Efficiency at the heart of our work
+### Efficiency at the ❤️ of our work
 
 A lot of people judge their work by the quantity instead of the quality. We don't. We aim to work as smart as possible and be as efficient as possible. We hate losing time, in commute, in useless meetings, in endless boring 9-to-5 weekdays. \
 Our goal: creating the most efficient teams in the world.
@@ -104,7 +104,7 @@ Hard decisions, but simple one: they allow us to stay who we are.
 
 ### Use the best tool
 
-As you will see in the Guidelines, we have strong conventions over what tools we use. Slack, BitBucket, Drive: all these tools are like the hammer of… well, whatever profession uses a hammer. By using _creme de la creme _tools, we stop doing repetitive dumbass tasks and concentrate on what distinguishes us from stupid bots: building unique things.
+As you will see in the Guidelines, we have strong conventions over what tools we use. Slack, GitHub, Drive: all these tools are like the hammer of… well, whatever profession uses a hammer. By using _creme de la creme _tools, we stop doing repetitive dumbass tasks and concentrate on what distinguishes us from stupid bots: building unique things.
 
 
 ### Openness
@@ -163,7 +163,7 @@ Everyone can attend : (former) team members, (former) interns, friends, friends 
 
 ### Constant reporting — 24/7
 
-Everyone should constantly report progress on the appropriate Airtable project base and push their code on Bitbucket. And the automatic integration to Slack will do the trick.
+Everyone should constantly report progress on the appropriate Zube project base and push their code on GitHub. And the automatic integration to Slack will do the trick.
 
 
 # Writing.
@@ -245,11 +245,13 @@ We've been through this already, Slack is our all-in-one communication hub and y
 
 You know the best teams out there all have their legendary tools, right? Think of Frodo's ring, Harry's wand or Superman's underwear 💥
 
-Likewise, at nextmoov, we have some wonderful tools to fuel our collaboration. Proudly introducing you to the ASD1-squad: Airtable, Slack, Google Drive, 1Password.
+Likewise, at nextmoov, we have some wonderful tools to fuel our collaboration. Proudly introducing you to the ZASD1-squad: Zube, Airtable, Slack, Google Drive, 1Password.
 
-Airtable is a shared database where we store everything from contacts details to inventory of assets. It is also our primary project management tool and the place where you'll find our main [coding and writing conventions](https://airtable.com/shr6JG46neKj6wx1V).
+Zube is a Project Management layer that comes on top of GitHub and allows for some fancy PM-stuff while staying perfectly synchronized. 
 
-Slack is our all-in-one internal communication tool. This is the place where the teamwork happens, from sharing news to raising questions to your colleagues. Its power comes from its tight integration with all our other tools (Airtable, Drive, Mail, Bitbucket …) making it the perfect hub to stay up-to-date. Also, this is where we make jokes most of the time :)
+Airtable is a shared database where we store everything from contacts details to inventory of assets. We use it as a kind of CRM to say it otherwise.
+
+Slack is our all-in-one internal communication tool. This is the place where the teamwork happens, from sharing news to raising questions to your colleagues. Its power comes from its tight integration with all our other tools (Zube, Airtable, Drive, Mail, GitHub …) making it the perfect hub to stay up-to-date. Also, this is where we make jokes most of the time :)
 
 Next comes Google Drive, our... well you know Drive right?
 
@@ -260,7 +262,6 @@ And that's it.
 … Wait, what about the good ol' mail then? Well, we use it of course, but for external communication only and with some strict writing conventions (see below).
 
 Before going any further, we should tell you that we're a macOS-oriented agency. This means all our tools run on macOS. Depending on your profile, it might affect you differently (have you ever tried opening a _.key_ file on your windows laptop? 🤪).
-
 
 ### For Developers
 
