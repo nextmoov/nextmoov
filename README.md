@@ -1,4 +1,4 @@
-<img width="1440" alt="We are nextmoov and this is how we work." src="https://user-images.githubusercontent.com/4315469/56206516-dfcc4d00-604c-11e9-855e-b8bb903341bb.png">
+[![We are nextmoov and this is how we work](https://user-images.githubusercontent.com/4315469/56206516-dfcc4d00-604c-11e9-855e-b8bb903341bb.png)](https://nextmoov.be/?utm_source=github&utm_campaign=nextmoov-dna)
 
 # What's this?
 
