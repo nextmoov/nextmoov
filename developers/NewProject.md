@@ -23,21 +23,18 @@ The point should be to maximum code-reuse across multiple projects for a client.
 2. Create a channel name “p-<PROJECT>”
 “PROJECT” must be rigorously the same as the one used in AirTable
 
-### BitBucket
-Create project in BitBucket
-https://bitbucket.org/account/projects/create?owner=nextmoov
+### GitHub
+[Create project in GitHub](https://github.com/new)
 Create a repository for every component of your project :
-https://bitbucket.org/repo/create?owner=nextmoov
-BitBucket + Slack Integration
+[Create project in GitHub](https://github.com/new)
+
+### GitHub + Slack Integration
 Add a new configuration to the BitBucket integration in Slack
 It should post to r-<CLIENT> channel created earlier.
-Copy the value of the webhook URL.
- https://nextmoov.slack.com/apps/new/A0F7VRDPE-bitbucket
 
-For every repository you created for your project, add this webhook. 
-On BitBucket, go to Repository > Settings > Webhooks > Add
-	Name : Slack
-	URL : The one you copied in step 1
+```/github subsribe nextmoov/CLIENT-PROJECT-COMPONENT```
+
+
 
 
 
