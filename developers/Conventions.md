@@ -6,10 +6,6 @@ We strongly believe sharing best practices, tools and libraries across project w
 
 Following is a list of conventions, both shared across all projects, as well as specific to a Framework. 
 
-## Table of content
-
-[TOC]
-
 ## Shared
 
 |Name|Type|Field|
