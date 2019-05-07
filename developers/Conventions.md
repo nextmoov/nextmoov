@@ -34,10 +34,12 @@ Following is a list of conventions, both shared across all projects, as well as 
 
 ## Node.js
 
-|Name|Required|Type|Summary|Notes
+|Name|Required/Forbidden|Type|Summary|Notes
 |:--|:--|:--|:--|:--|
 | **[winston](https://github.com/winstonjs/winston)**| * |Logs|Logging library|Forward logs & errors to various outputs (STDOUT, Sentry, Slack) depending on severity and environnement|
 | **[winston-raven-sentry](https://github.com/niftylettuce/winston-raven-sentry)**|*|Logs|Logging library|Sentry Adapter for Winston. Should point to our Sentry Instance
+| [~~Babel~~](https://babeljs.io/)| **FORBIDDEN** |Compiler|ES6 compiler|As we control the runtime on backend project, Babel must not e used. Use ESM for import features.|
+| [ESM](https://www.npmjs.com/package/esm)| |Libs|ECMAscript module loader|Add ECMAscript loading feature to NodeJS|
 
 ## React
 
@@ -51,7 +53,7 @@ Following is a list of conventions, both shared across all projects, as well as 
 
 ## ReactNative
 
-|Name|Required|Type|Summary|Notes
+|Name|Required/Forbidden|Type|Summary|Notes
 |:--|:--|:--|:--|:--|
 | **[react-native-sentry](https://github.com/getsentry/react-native-sentry)**| * |Logs|Logging library|Sentry Adapter for React Native. Should point to our Sentry instance. 
 | [nextmoov-rn-commons](https://bitbucket.org/nextmoov/nextmoov-rn-commons/)|  |UI|Shared Components Library|Our own sets of re-usable components for RN apps: Input, DatePicker, List, Buttons,...

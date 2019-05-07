@@ -200,7 +200,7 @@ nextmoov/Cambio - Discover&Register - Payment
 
 If you need more than 24 hours to answer an email, you must let the client know by sending a quick email saying so. Being available to our clients is a cornerstone of our reputation.
 
-### Follow-up with the client if she doesn't answer email
+### Follow-up with the client if they doesn't answer email
 
 If you sent an email between Monday and Wednesday, send a friendly reminder on Monday. If you sent an email between Tuesday and Sunday, send a friendly reminder on Wednesday.
 
