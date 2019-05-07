@@ -38,7 +38,6 @@ Following is a list of conventions, both shared across all projects, as well as 
 |:--|:--|:--|:--|:--|
 | **[winston](https://github.com/winstonjs/winston)**| * |Logs|Logging library|Forward logs & errors to various outputs (STDOUT, Sentry, Slack) depending on severity and environnement|
 | **[winston-raven-sentry](https://github.com/niftylettuce/winston-raven-sentry)**|*|Logs|Logging library|Sentry Adapter for Winston. Should point to our Sentry Instance
-| **[nextmoov-ops-drone: nodejs template]()**| * |Deploy|Drone Integration|**TODO** CI/CD Config for your project to be tested and deployed on our infrastructure
 
 ## React
 
@@ -48,7 +47,6 @@ Following is a list of conventions, both shared across all projects, as well as 
 | [~~PropTypes~~](https://reactjs.org/docs/typechecking-with-proptypes.html)| **FORBIDDEN**|Libs|Type|Use Flow Instead
 | [**storybook**](https://github.com/storybooks/storybook)| * | UI Testing | UI Components testing | Mandatory for every /components|
 | [Redux](https://github.com/reduxjs/redux)|  |State Manager| App State manager |
-| **[nextmoov-ops-drone: ReactJS template]()**| * |Deploy|Drone Integration|**TODO** CI/CD Config for your project to be tested and deployed on our infrastructure
 
 
 ## ReactNative
