@@ -20,23 +20,26 @@ Following is a list of conventions, both shared across all projects, as well as 
 
 ## JS Projects
 
-|Name|Required|Type|Summary|Notes
+|Name|Required/Forbidden|Type|Summary|Notes
 |:--|:--|:--|:--|:--|
 | **[eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)**| * | Style | Coding Style Guide | [howto](./howto-eslint-airbnb)
 | [Prettier](https://prettier.io/)|  | Style | Code Formater |_Usage under consideration. Potential conflicts with eslint-config-airbnb._
-| [~~TypeScript~~](https://www.typescriptlang.org/)| |Type|Strongly typed superset of JS|_Add strong typing to JS. More "All or Nothing" approach than Flow. Usage to be discussed, not to be used before decision taken_|
+| [~~TypeScript~~](https://www.typescriptlang.org/)|FORBIDDEN|Type|Strongly typed superset of JS|_Add strong typing to JS. More "All or Nothing" approach than Flow. Usage to be discussed, not to be used before decision taken_|
 | [Flow](https://flow.org)| |Type|Static Type checker for JS|Allows incremental usage|
 | [Yarn](https://yarnpkg.com/fr/)| |Libs|Package manager |Drop-in replacement of NPM. Faster and more reliable.
-| [~~npm~~](https://yarnpkg.com/fr/)|deprecated|Libs|Package manager|Use yarn instead
+| [~~npm~~](https://yarnpkg.com/fr/)|FORBIDDEN|Libs|Package manager|Use yarn instead
 | [Jest](https://jestjs.io/docs/en/getting-started) | | test | testing framework by Facebook | [howto](./howto-jest)
 
 
 ## Node.js
 
-|Name|Required|Type|Summary|Notes
+|Name|Required/Forbidden|Type|Summary|Notes
 |:--|:--|:--|:--|:--|
 | **[winston](https://github.com/winstonjs/winston)**| * |Logs|Logging library|Forward logs & errors to various outputs (STDOUT, Sentry, Slack) depending on severity and environnement|
 | **[winston-raven-sentry](https://github.com/niftylettuce/winston-raven-sentry)**|*|Logs|Logging library|Sentry Adapter for Winston. Should point to our Sentry Instance
+| [Babel](https://babeljs.io/)| FORBIDDEN |Compiler|ES6 compiler|As we control the runtime on backend project, Babel must not e used. Use ESM for import features.|
+| [ESM](https://www.npmjs.com/package/esm)| |Libs|ECMAscript module loader|Add ECMAscript loading feature to NodeJS|
+
 | **[nextmoov-ops-drone: nodejs template]()**| * |Deploy|Drone Integration|**TODO** CI/CD Config for your project to be tested and deployed on our infrastructure
 
 ## React
@@ -51,7 +54,7 @@ Following is a list of conventions, both shared across all projects, as well as 
 
 ## ReactNative
 
-|Name|Required|Type|Summary|Notes
+|Name|Required/Forbidden|Type|Summary|Notes
 |:--|:--|:--|:--|:--|
 | **[react-native-sentry](https://github.com/getsentry/react-native-sentry)**| * |Logs|Logging library|Sentry Adapter for React Native. Should point to our Sentry instance. 
 | [nextmoov-rn-commons](https://bitbucket.org/nextmoov/nextmoov-rn-commons/)|  |UI|Shared Components Library|Our own sets of re-usable components for RN apps: Input, DatePicker, List, Buttons,...
