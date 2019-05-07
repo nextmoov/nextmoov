@@ -58,5 +58,5 @@ Following is a list of conventions, both shared across all projects, as well as 
 | **[react-native-sentry](https://github.com/getsentry/react-native-sentry)**| * |Logs|Logging library|Sentry Adapter for React Native. Should point to our Sentry instance. 
 | [nextmoov-rn-commons](https://bitbucket.org/nextmoov/nextmoov-rn-commons/)|  |UI|Shared Components Library|Our own sets of re-usable components for RN apps: Input, DatePicker, List, Buttons,...
 | [**storybook**](https://github.com/storybooks/storybook)| * | UI Testing | UI Components testing | Mandatory for every /components|
-| [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)| |Libs|Type|Recommended for small projets. Use Flow for larger codebases, and nothing for tiny projects.
+| [~~PropTypes~~](https://reactjs.org/docs/typechecking-with-proptypes.html)| **FORBIDDEN**|Libs|Type|Use Flow Instead
 
