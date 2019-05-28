@@ -115,7 +115,9 @@ Let's build a better future. GO TREES! 🌳
 
 We believe the low representation of women in the IT sector is the product of systemic discriminations, sexist stereotypes and ambient misogyny. We want to be a part of a new culture that aims to empower women and close the gender gap through words and actions.
 
-We want to hire women and we make it clear: **ladies, you’re welcome here and your work is valuable to us!** No matter your gender, working with us means being on an equal footing. You can always speak up and your ideas are valuable to us. **Mansplaining, harassment, microaggressions and salary gaps have no place at nextmoov.**
+We want to hire women and we make it clear: **ladies, you’re welcome here and your work is valuable to us!** No matter your gender, working with us means being on an equal footing. You can always speak up and your ideas are valuable to us. 
+
+**Mansplaining, harassment, microaggressions and salary gaps have no place at nextmoov.**
 
 We want to take steps towards creating a respectful and inclusive culture where women can feel safe and supported at work. You’re welcome to take those steps with us. ✌️
 
