@@ -20,14 +20,15 @@ Following is a list of conventions, both shared across all projects, as well as 
 
 ## JS Projects
 
-|Name|Required/Forbidden|Type|Summary|Notes
+|Name|Status|Type|Summary|Notes
 |:--|:--|:--|:--|:--|
 | **[eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)**| * | Style | Coding Style Guide | [howto](./howto-eslint-airbnb)
 | [Prettier](https://prettier.io/)|  | Style | Code Formater |_Usage under consideration. Potential conflicts with eslint-config-airbnb._
-| [~~TypeScript~~](https://www.typescriptlang.org/)|FORBIDDEN|Type|Strongly typed superset of JS|_Add strong typing to JS. More "All or Nothing" approach than Flow. Usage to be discussed, not to be used before decision taken_|
+| [~~TypeScript~~](https://www.typescriptlang.org/)| **FORBIDDEN**|Type|Strongly typed superset of JS|Add strong typing to JS. Use Flow instead.|
 | [Flow](https://flow.org)| |Type|Static Type checker for JS|Allows incremental usage|
 | [Yarn](https://yarnpkg.com/fr/)| |Libs|Package manager |Drop-in replacement of NPM. Faster and more reliable.
-| [~~npm~~](https://yarnpkg.com/fr/)|FORBIDDEN|Libs|Package manager|Use yarn instead
+| [npx](https://www.npmjs.com/package/npx)| |Libs|Package Runner| One-off run of npm packages. [Recommended by Yarn](https://github.com/yarnpkg/yarn/issues/3937) for one-off usage. 
+| [~~npm~~](https://yarnpkg.com/fr/)|**FORBIDDEN**|Libs|Package manager|Use Yarn instead
 | [Jest](https://jestjs.io/docs/en/getting-started) | | test | testing framework by Facebook | [howto](./howto-jest)
 
 
@@ -37,19 +38,17 @@ Following is a list of conventions, both shared across all projects, as well as 
 |:--|:--|:--|:--|:--|
 | **[winston](https://github.com/winstonjs/winston)**| * |Logs|Logging library|Forward logs & errors to various outputs (STDOUT, Sentry, Slack) depending on severity and environnement|
 | **[winston-raven-sentry](https://github.com/niftylettuce/winston-raven-sentry)**|*|Logs|Logging library|Sentry Adapter for Winston. Should point to our Sentry Instance
-| [Babel](https://babeljs.io/)| FORBIDDEN |Compiler|ES6 compiler|As we control the runtime on backend project, Babel must not e used. Use ESM for import features.|
+| [~~Babel~~](https://babeljs.io/)| **FORBIDDEN** |Compiler|ES6 compiler|As we control the runtime on backend project, Babel must not e used. Use ESM for import features.|
 | [ESM](https://www.npmjs.com/package/esm)| |Libs|ECMAscript module loader|Add ECMAscript loading feature to NodeJS|
-
-| **[nextmoov-ops-drone: nodejs template]()**| * |Deploy|Drone Integration|**TODO** CI/CD Config for your project to be tested and deployed on our infrastructure
 
 ## React
 
 |Name|Required|Type|Summary|Notes
 |:--|:--|:--|:--|:--|
 | **[@sentry/browser](https://docs.sentry.io/platforms/javascript/react/)**| * |Logs|Logging library|Sentry Adapter for Browser and React. Should point to our Sentry instance. 
-| [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)| |Libs|Type|Recommended for small projets. Use Flow for larger codebases, and nothing for tiny projects.| [storybook](https://github.com/storybooks/storybook)|  |UI Testing|UI Components testing|
+| [~~PropTypes~~](https://reactjs.org/docs/typechecking-with-proptypes.html)| **FORBIDDEN**|Libs|Type|Use Flow Instead
+| [**storybook**](https://github.com/storybooks/storybook)| * | UI Testing | UI Components testing | Mandatory for every /components|
 | [Redux](https://github.com/reduxjs/redux)|  |State Manager| App State manager |
-| **[nextmoov-ops-drone: ReactJS template]()**| * |Deploy|Drone Integration|**TODO** CI/CD Config for your project to be tested and deployed on our infrastructure
 
 
 ## ReactNative
@@ -58,6 +57,6 @@ Following is a list of conventions, both shared across all projects, as well as 
 |:--|:--|:--|:--|:--|
 | **[react-native-sentry](https://github.com/getsentry/react-native-sentry)**| * |Logs|Logging library|Sentry Adapter for React Native. Should point to our Sentry instance. 
 | [nextmoov-rn-commons](https://bitbucket.org/nextmoov/nextmoov-rn-commons/)|  |UI|Shared Components Library|Our own sets of re-usable components for RN apps: Input, DatePicker, List, Buttons,...
-| [storybook](https://github.com/storybooks/storybook)|  |UI Testing|UI Components testing|
-| [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)| |Libs|Type|Recommended for small projets. Use Flow for larger codebases, and nothing for tiny projects.
+| [**storybook**](https://github.com/storybooks/storybook)| * | UI Testing | UI Components testing | Mandatory for every /components|
+| [~~PropTypes~~](https://reactjs.org/docs/typechecking-with-proptypes.html)| **FORBIDDEN**|Libs|Type|Use Flow Instead
 
