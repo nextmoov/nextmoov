@@ -1,3 +1,22 @@
+We're sometimes having Checkup Meetings with team members (especially interns).
+But :
+
+- We tend to do these in an informal (that's cool) but sometimes unstructured (less cool) way, and sometimes forget some important questions (not cool at all)
+- It's quite inevitably a stressful exercice that some would like to prepare
+- We sometimes forget to do these w/ more senior team members
+
+To fix this, I'd like to introduce a new page on the main repository: 
+- giving a canvas of questions for theses interview
+- enforcing a schedule for these
+- insisting on the ability for anyone to call for a checkup meeting anytime.
+
+As with all stuff nextmoov, this canvas should be open & built all together :-)
+
+Following is a first draft ("pièce à casser"), open for discussion :-) 
+Can't wait to read your feedback <3 
+
+---
+
 ~~We strongly believe happy people are the best ingredients for an happy team.~~
 
 Wait, what? You're not a fucking ingredient! You're a person !
