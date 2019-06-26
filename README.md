@@ -1,22 +1,7 @@
 [![We are nextmoov and this is how we work](https://user-images.githubusercontent.com/4315469/56206516-dfcc4d00-604c-11e9-855e-b8bb903341bb.png)](https://nextmoov.be/?utm_source=github&utm_campaign=nextmoov-dna)
 
 # What's this?
-
-This is our DNA. This is who we are.
-
-But, wait, who are we, actually?
-
-**[nextmoov](https://nextmoov.be) is a Belgian Digital Agency. 🇧🇪**
-
-We are in a quest to re-invent the way we work, as true digital nomads, while producing some nice apps, website and chatbots.
-
-On April 16th 2019, we decided to go one step further with our open-minded DNA: go fully open source with it.
-
-In this repository, you can find the following items:
-
-- DNA (this document): Discover our DNA and suggest any edit to it;
-- [Docs/Developers](./developers): Read some of our internal training documents & conventions for Developers;
-- [Issues](https://github.com/nextmoov/nextmoov/issues): See all the next big steps for us as a company (and the debates around it), from picking a 3D printer to revolutionize our DX.
+e next big steps for us as a company (and the debates around it), from picking a 3D printer to revolutionize our DX.
 
 > ## Edits are strongly encouraged
 >
