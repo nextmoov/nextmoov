@@ -231,14 +231,14 @@ Send any freelancing invoice (or expense invoices from a third-party) to this ma
 
 They should be addressed to :
 
-#### nextmoov 
-#### NextRide SPRL 
-Rue Oltrémont, 87 
-4420 Saint-Nicolas 
-BE0637743524 
+> **nextmoov**
+>
+> NextRide SPRL \
+> Rue Oltrémont, 87 \
+> 4420 Saint-Nicolas \
+> BE0637743524
 
-
-When possible, we tend to pay them as soon as they are received, not waiting for due date. 
+When possible, we pay them as soon as they are received, not waiting for due date. 
 
 
 # Tools.
