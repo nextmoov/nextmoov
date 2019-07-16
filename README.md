@@ -16,6 +16,8 @@ In this repository, you can find the following items:
 
 - DNA (this document): Discover our DNA and suggest any edit to it;
 - [Docs/Developers](./developers): Read some of our internal training documents & conventions for Developers;
+- [Docs/OnBoarding](./onboarding): Our internal documents to welcome new team members, and perform evaluation;
+- [Docs/(non)Remote Fridays](./(non)Remote%20Fridays): Our weekly workshops
 - [Issues](https://github.com/nextmoov/nextmoov/issues): See all the next big steps for us as a company (and the debates around it), from picking a 3D printer to revolutionize our DX.
 
 > ## Edits are strongly encouraged
