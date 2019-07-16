@@ -57,4 +57,4 @@ Ho, one last thing : there is one trap question... Will you spot it?
 
 ### Projects & Technologies
 
-- How do you feel regarding our choice to be a JS-only company?
+- How do you feel regarding our choice to be a JS-first company?
