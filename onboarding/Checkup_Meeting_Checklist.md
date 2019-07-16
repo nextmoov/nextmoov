@@ -13,7 +13,7 @@ This is why we're sometimes having **Checkup Meetings** with team members (espec
 That's why :
 
 - we are giving out this canvas to help both of us ask the rights question during the Checkup Meeting
-- we are enforcing a schedule for these — monthly the 6 first months of work with us, yearly afterwards
+- we are enforcing a schedule for these — monthly the 6 first months of work with us, yearly afterwards. You'll always be warned at least 1 week in advance.
 - we are insisting on the ability for anyone to call for a checkup meeting anytime, should you feel to need for it
 
 This form is only here to facilitate the conversation.
