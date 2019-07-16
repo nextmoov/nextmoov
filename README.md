@@ -222,6 +222,25 @@ You must avoid sending "complex" emails on Friday after 11.00AM. And last but no
 
 We've been through this already, Slack is our all-in-one communication hub and you should therefore cc the channel email address so we make sure everyone has access to the freshest information at all time.
 
+# Invoicing
+
+[Money](https://www.youtube.com/watch?v=C2OL_FqcUZo). Want some? 
+Send any freelancing invoice (or expense invoices from a third-party) to this magical email address :
+
+> **invoice@nextmoov.be**
+
+They should be addressed to :
+
+#### nextmoov 
+#### NextRide SPRL 
+Rue Oltrémont, 87 
+4420 Saint-Nicolas 
+BE0637743524 
+
+
+When possible, we tend to pay them as soon as they are received, not waiting for due date. 
+
+
 # Tools.
 
 ## Our all-rounders' daily companions
