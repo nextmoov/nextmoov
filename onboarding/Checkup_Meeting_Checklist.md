@@ -23,12 +23,13 @@ Ho, one last thing : there is one trap question... Will you spot it?
 
 ## How are you doing?
 
-### Team Spirit
+### Vision & Team Spirit
 
 - How are you feeling in the team? How do you see yourself fitting in the team?
 - What gave you joy and anger since the last evaluation?
 - Did you feel uncomfortable in the team at anytime? If so, why?
 - Are you living by our DNA?
+- How do you see yourself evolving within nextmoov in the future?
 
 ### Tools & Conventions
 
@@ -44,10 +45,11 @@ Ho, one last thing : there is one trap question... Will you spot it?
 
 ## How is nextmoov doing?
 
-### Team Spirit
+### Vision & Team Spirit
 
 - Is nextmoov living by its DNA?
 - What is your opinion about our main organizational rituals (non-remote Fridays, weekly brief, workshops ...)?
+- Do you think nextmoov has a clear and solid enough strategy for the future?
 
 ### Tools & Conventions
 
