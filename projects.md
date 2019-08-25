@@ -7,6 +7,12 @@ This list is here to help you put a few buzzwords on top of these.
 
 _Sorted by alphabetical order_
 
+### Aware
+
+The PEREX center for sustainable mobility.
+Display all disruptions of public transport in Belgium (TEC, STIB, De Lijn and SNCB).
+Interactive TV maps integration for a big media client in Belgium (Keywall for RTBF).
+
 ### Cambio
 
 The carsharing leader in Belgium. You take one car in any of the 500 stations, drive wherever you want, and bring it back.
