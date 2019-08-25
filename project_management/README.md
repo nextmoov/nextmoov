@@ -7,7 +7,7 @@ And again, we believe that strong conventions enforced by powerfull tools makes 
 
 ## Our Product Development Lifecycle
 
-You won't be surprise if we'd tell you that nextmoov is an **agile-centric development company**. After all, who on earth would claim the opposite these days? And just as everyone else do, we take most of ou inspiration from Design Thinking, Lean Startup and Scrum, all-at-once.
+You won't be surprise if we'd tell you that nextmoov is an **agile-centric development company**. After all, who on earth would claim the opposite these days? And just as everyone else do, we take most of our inspiration from Design Thinking, Lean Startup and Scrum, all-at-once.
 
 But not just because *everyone else does it*. 
 
