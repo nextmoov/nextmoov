@@ -15,7 +15,7 @@ See [this link](https://github.com/sass/node-sass/releases/tag/v4.12.0) for more
 
 ## Install Yarn
 
-**Warning :** Do not install Yarn with .exe file from the web or you might have some trouble matching versions
+**Warning :** Do not install Yarn with .exe file from the web or you might have some trouble matching versions. Yarn MUST be installed globally through npm, matching will be done automagically !
 
 ##### In Terminal (cmd Shell)
 
@@ -26,9 +26,10 @@ See [this link](https://github.com/sass/node-sass/releases/tag/v4.12.0) for more
 
 ##### In terminal
 
+- **cmd** -> to send orders from Command Shell instead of PowerShell
 - **yarn** -> to install,
-- **yarn start** -> to emulate,
-- **yarn storybook** -> to have storybook.
+- **yarn start** -> to run your project locally,
+- **yarn storybook** -> to run your project's storybook.
 
 ## If you get a missing binding error
 
