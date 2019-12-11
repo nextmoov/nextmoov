@@ -19,8 +19,6 @@ That's why :
 This form is only here to facilitate the conversation.
 Let's discuss frankly together and see what we can improve!
 
-Ho, one last thing : there is one trap question... Will you spot it?
-
 ## How are you doing?
 
 ### Vision & Team Spirit
@@ -34,7 +32,6 @@ Ho, one last thing : there is one trap question... Will you spot it?
 ### Tools & Conventions
 
 - Are you following all our conventions?
-- How many meetings did you attend? Is that enough?
 
 ### Projects & Technologies
 
