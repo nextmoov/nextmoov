@@ -18,7 +18,7 @@ Following is a list of conventions, both shared across all projects, as well as 
 
 |Name|Status|Type|Summary|Notes
 |:--|:--|:--|:--|:--|
-| **[eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)**| * | Style | Coding Style Guide | [howto](./howto-eslint-airbnb)
+| **[eslint-config-airbnb](https://github.com/nextmoov/nextmoov/blob/master/developers/howto-eslint-airbnb.md)**| * | Style | Coding Style Guide | [howto](./howto-eslint-airbnb)
 | [Prettier](https://prettier.io/)|  | Style | Code Formater |_Usage under consideration. Potential conflicts with eslint-config-airbnb._
 | [~~TypeScript~~](https://www.typescriptlang.org/)| **FORBIDDEN**|Type|Strongly typed superset of JS|Add strong typing to JS. Use Flow instead.|
 | [Flow](https://flow.org)| |Type|Static Type checker for JS|Allows incremental usage|
