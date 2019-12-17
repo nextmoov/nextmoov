@@ -30,6 +30,7 @@ But before you do so, we have a few last administrative burden to go through, na
 
 - [ ]   Signing the Non-Disclosure Agreement (NDA) that protects our dear intellectual property
 - [ ]   Granting you accesses to your G Suite account — your very own @[nextmoov.be](http://nextmoov.be) address and access to Gmail, Drive, agenda and all SSO-compatible apps.
+- [ ]   Creating an account on [1Password](https://nextmoov.1password.com/teamjoin/invitation/MDX7N6MRGZEONFR47X5IVXMBJA) — where we store everything securely
 - [ ]   Walking you around Slack, our internal communication hub (and setting a shiny new profile pic!)
 - [ ]   If you're a developer, adding you to our GitHub organization, and [adding an SSH Key to your personal GitHub Account](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 - [ ]   Posting your lovely face on our Social Media accounts : (Twitter, Facebook, and Linkedin. Not TikTok, yet).
