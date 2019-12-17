@@ -27,6 +27,12 @@ Following is a list of conventions, both shared across all projects, as well as 
 | [~~npm~~](https://yarnpkg.com/fr/)|**FORBIDDEN**|Libs|Package manager|Use Yarn instead
 | [Jest](https://jestjs.io/docs/en/getting-started) | | test | testing framework by Facebook | [howto](./howto-jest)
 
+## Yarn Lock file
+
+As we are using Yarn as a package manager, you should **never** manipulate the project dependencies manually, if you need a new dependency you can run `yarn add my-awesome-lib` or `yarn add my-awesome-dev-lib --dev` to add it, Yarn will automatically updates the `yarn.lock` file with your recently added dependency and lock it within it's version at the moment you've added it.
+
+*How to deal with `yarn.lock` conflicts* : If, at some point, you have conflicts between your current version of this file and an older/newer version of it, use your diff tool (`OURS / MINE / MERGE`) to select `OURS` and then simply run `yarn` to install all the dependencies listed in your `package.json` and yarn will automatically update it's lockfile with the recent changes in the `package.json`
+
 
 ## Node.js
 
