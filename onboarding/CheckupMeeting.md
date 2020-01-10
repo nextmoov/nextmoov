@@ -44,7 +44,7 @@ Let's discuss frankly together and see what we can improve!
 
 ### Vision & Team Spirit
 
-- Is nextmoov living by its DNA?
+- Is nextmoov living by its [DNA](../)?
 - What is your opinion about our main organizational rituals (non-remote Fridays, weekly brief, workshops ...)?
 - Do you think nextmoov has a clear and solid enough strategy for the future?
 
