@@ -14,6 +14,9 @@ As of today (20190416 ☀), here is a list of the MUST and SHOULD tools we use:
 Feeling ok with theses general principles? Nice!
 Now, you can :
 
+- [New Project](./NewProject.md) : Learn how to start a new project.\
+It's as simple as clicking a Use this Template button 😍
+
 - [Conventions](./Conventions.md) : Dive in our conventions.\
 There is a lot of them, but they will greatly simplify your day-to-day job. You'll see!
 
