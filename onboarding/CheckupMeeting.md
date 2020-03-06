@@ -36,7 +36,7 @@ Let's discuss frankly together and see what we can improve!
 ### Projects & Technologies
 
 - How do you feel regarding the projects you are working on?
-- How senior are you regarding the field you're in ? (back, front, design)
+- How senior are you regarding the field you're in ?
 - How much progress did you make since the latest evaluation?
 - What are the next things you want to learn?
 
