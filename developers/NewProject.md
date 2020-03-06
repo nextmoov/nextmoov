@@ -1,46 +1,26 @@
-
-
-
-
 # New Project Checklist
 
-## Architecture
-Your project should be divided in multiple separated components: 
+So, you've been assigned a new project? Great ! \
+Here are the simple steps to get you started. 
 
-- one or multiple API
-- a web-client
+## Architecture
+
+We work using a ["Micro-Services"](https://en.wikipedia.org/wiki/Microservices) approach. \
+To follow it, your project should be divided in multiple separated components: 
+
+- One or multiple API
+- A web-client
 - A mobile application
+- ...
 
 Start by taking a moment to think how you will divide your project. 
-The point should be to maximum code-reuse across multiple projects for a client.
+The point should be to maximize code-reuse across multiple projects.
 
-## Setup Walkthrough (TODO)
-AirTable
-1. Create project in AirTable “Overview” base
-https://airtable.com/tblxH4r1B2L0o6QN4/viwlE7u1JPJYpXQL7
-2. Create a base for your project by duplicating “scrum_template” base
-https://airtable.com/tblSw7z987FQ7tCLU/viw3nOPVnJPOGH0ft
-3. Fill the “components” table, and define your first “sprint”.
-Slack
-1. If this is the first project for this client, create a channel named “r-<CLIENT>” 
-“CLIENT” must be rigorously the same as the one used in AirTable
-2. Create a channel name “p-<PROJECT>”
-“PROJECT” must be rigorously the same as the one used in AirTable
-BitBucket
-Create project in BitBucket
-https://bitbucket.org/account/projects/create?owner=nextmoov
-Create a repository for every component of your project :
-https://bitbucket.org/repo/create?owner=nextmoov
-BitBucket + Slack Integration
-Add a new configuration to the BitBucket integration in Slack
-It should post to r-<CLIENT> channel created earlier.
-Copy the value of the webhook URL.
- https://nextmoov.slack.com/apps/new/A0F7VRDPE-bitbucket
+## Create a repository for any component
 
-For every repository you created for your project, add this webhook. 
-On BitBucket, go to Repository > Settings > Webhooks > Add
-	Name : Slack
-	URL : The one you copied in step 1
+- For a backend component (API,...), use our Backend Template : [nextmoov-template-backend](https://github.com/nextmoov/nextmoov-template-backend)
+- For a frontend component, use our Backend Template : [nextmoov-template-backend](https://github.com/nextmoov/nextmoov-template-backend)
 
-
-
+That's it ! 
+Our templates are filled with every conventions you should follow.
+Our CI stack will ensure you follow these — and the CD stack will take care of launching your project on both staging and production environnements.
