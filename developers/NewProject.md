@@ -24,3 +24,7 @@ The point should be to maximize code-reuse across multiple projects.
 That's it ! 
 Our templates are filled with every conventions you should follow.
 Our CI stack will ensure you follow these — and the CD stack will take care of launching your project on both staging and production environnements.
+
+## Work on this repository
+
+Read about our [Coding Flow](./CodingFlow) to learn how to work on this new repository of yours.
