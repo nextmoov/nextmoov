@@ -19,7 +19,7 @@ The point should be to maximize code-reuse across multiple projects.
 ## Create a repository for any component
 
 - For a backend component (API,...), use our Backend Template : [nextmoov-template-backend](https://github.com/nextmoov/nextmoov-template-backend)
-- For a frontend component, use our Backend Template : [nextmoov-template-backend](https://github.com/nextmoov/nextmoov-template-backend)
+- For a frontend component, use our Frontend Template : [nextmoov-template-frontend](https://github.com/nextmoov/nextmoov-template-frontend)
 
 That's it ! 
 Our templates are filled with every conventions you should follow.
