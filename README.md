@@ -142,13 +142,13 @@ It's the day of the week to gather round @ Brussels HQ for anyone willing to.
 
 We run the Sprint Debrief, a quickly WeeklyBrief, share a lunch and then discover a new exciting tech during the workshop.
 
-### Sprint Debrief - Every Friday, 10:00
+### Sprint Debrief - Every Monday, 10:30
 
 During the weekly (half-)Sprint Debrief, you will be reviewing your assigned Stories with your Project Manager, and according to the project progress, you will be briefed for the upcoming week. 
 
-10:00, remember that time: every stories of yours needs to be completed by that time.
+10:30, remember that time: every stories of yours needs to be completed by that time.
 
-Cause, you know: deadline are one of the rare thing we don't laugh about. 🤷🏽‍♀️
+Cause, you know: deadlines are one of the rare things we don't laugh about. 🤷🏽‍♀️
 
 ### WeeklyBrief - Every Friday, 11:30
 
