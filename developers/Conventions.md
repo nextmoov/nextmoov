@@ -6,6 +6,8 @@ We strongly believe sharing best practices, tools and libraries across project w
 
 Following is a list of conventions, both shared across all projects, as well as specific to a Framework. 
 
+**Most conventions are enforced by our CI. Your PR won't be accepted if they don't follow these.**
+
 ## Shared
 
 |Name|Type|Field|
